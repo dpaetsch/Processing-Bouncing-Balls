@@ -1,3 +1,6 @@
+// Project created by @dpaetsch
+// https://github.com/dpaetsch
+
 int Balls = 200;
 
 ArrayList<Ball> balls = new ArrayList<Ball>();
